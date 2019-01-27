@@ -30,7 +30,7 @@
                 <axisbutton index="1">
                     <slots>
                         <slot>
-                            <code>0x1000012</code>
+                            <code>0x1000013</code>
                             <mode>keyboard</mode>
                         </slot>
                     </slots>
@@ -38,7 +38,7 @@
                 <axisbutton index="2">
                     <slots>
                         <slot>
-                            <code>0x1000014</code>
+                            <code>0x1000015</code>
                             <mode>keyboard</mode>
                         </slot>
                     </slots>
